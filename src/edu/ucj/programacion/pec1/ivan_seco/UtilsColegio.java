@@ -3,7 +3,7 @@ package edu.ucj.programacion.pec1.ivan_seco;
 import java.util.Scanner;
 
 public class UtilsColegio {
-	
+	 
 	/**
 	 * Este metodo crea una cantidad de objetos de tipo ALUMNO como se le indique y los guarda en un ARRAY de tipo ALUMNO para poder usarlos posteriormente.
 	 * 
