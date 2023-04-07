@@ -4,7 +4,7 @@ public class GestionColegio {
 
 	public static void main(String[] args) {
 		//ENLACE GITHUB: https://github.com/Praisel04/Pec-Ivan-Seco.git
-		 
+		  
 		/*
 		 * CLASE CON EL METODO MAIN INICIADO CON VALORES DESDE EL RUN CONFIGURATIONS.
 		 * 			-NOMBRE.

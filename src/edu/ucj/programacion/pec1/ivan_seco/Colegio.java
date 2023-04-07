@@ -43,7 +43,7 @@ public class Colegio {
 	public void setAsientos(int asientos) {
 		this.asientos = asientos;
 	}
-	
+	 
 	 
 	
 //---------------------------------------------------------------------------------CREACION DE METODOS-------------------------------------------------------------------------
@@ -70,8 +70,8 @@ public class Colegio {
 		for(int aula = 0; aula<numeroAulas; aula++) {
 			for (int j = 0; j<numeroAsientos; j++) {
 				arrayAlumno[aula][j] = alumnos[k];
-				System.out.println("El alumno con nombre: " + alumnos[k].getNombre() +"apellido: "+alumnos[k].getApellido() +"y DNI: "+ alumnos[k].getDni()
-				+ "asiento " + j +"y aula: " + aula);
+				System.out.println("El alumno con nombre: " + alumnos[k].getNombre() +" apellido: "+alumnos[k].getApellido() +" y DNI: "+ alumnos[k].getDni()
+				+ " asiento " + j +" y aula: " + aula);
 				k++;
 			}
 			System.out.println("El aula " + aula + "tiene todos los asientos ocupados.");
